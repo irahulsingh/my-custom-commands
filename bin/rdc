@@ -1,0 +1,4 @@
+#!/bin/bash
+# Rails db create
+
+bundle exec rake db:create

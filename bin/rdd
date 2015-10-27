@@ -1,0 +1,4 @@
+#!/bin/bash
+# Rails db drop
+
+bundle exec rake db:drop
