@@ -25,5 +25,5 @@ $ rds
 
 ```
 bundle exec unicorn -c config/unicorn.rb as
-$ rss =>
+$ rss
 ```
