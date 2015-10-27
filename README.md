@@ -1,9 +1,11 @@
+Intended to speed up my personal development speed
+
+Tutorial on writing shell scripts:
+
 http://linuxcommand.org/writing_shell_scripts.php
 
 # Setup
 http://linuxcommand.org/wss0010.php
-
-Intended to speed up my development
 
 # Use
 ```
