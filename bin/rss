@@ -1,4 +1,4 @@
 #!/bin/bash
-# Rails db migrate
+# Rails unicorn server start
 
 bundle exec unicorn -c config/unicorn.rb

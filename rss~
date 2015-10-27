@@ -1,4 +1,0 @@
-#!/bin/bash
-# Rails db migrate
-
-bundle exec rake db:migrate

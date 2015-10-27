@@ -1,4 +1,4 @@
 #!/bin/bash
-# Rails db migrate
+# Rails db seed
 
 bundle exec rake db:seed

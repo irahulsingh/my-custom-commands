@@ -1,4 +1,4 @@
 #!/bin/bash
-# Rails db migrate
+# Rails db reset
 
 bundle exec rake db:reset
