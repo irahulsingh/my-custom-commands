@@ -4,7 +4,7 @@ http://linuxcommand.org/wss0010.php
 
 Intended to speed up my development
 
-User
+Use
 ```
 bundle exec rake db:migrate as
 $ rdm
