@@ -1,10 +1,11 @@
 http://linuxcommand.org/writing_shell_scripts.php
 
+# Setup
 http://linuxcommand.org/wss0010.php
 
 Intended to speed up my development
 
-Use
+# Use
 ```
 bundle exec rake db:migrate as
 $ rdm
