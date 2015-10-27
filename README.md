@@ -2,10 +2,25 @@ http://linuxcommand.org/writing_shell_scripts.php
 
 http://linuxcommand.org/wss0010.php
 
-* Intended to speed up my development
+Intended to speed up my development
 
-## $ rdm => bundle exec rake db:migrate
-## $ rdr => bundle exec rake db:reset
-## $ rds => bundle exec rake db:seed
+User
+```
+bundle exec rake db:migrate as
+$ rdm
+```
 
-## $ rss => bundle exec unicorn -c config/unicorn.rb
+```
+bundle exec rake db:reset as
+$ rdr
+```
+
+```
+bundle exec rake db:seed as
+$ rds
+```
+
+```
+bundle exec unicorn -c config/unicorn.rb as
+$ rss =>
+```
